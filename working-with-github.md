@@ -43,7 +43,7 @@ Examples:
 ___
 
 ## Branching strategy
-We use Gitflow as a branching strategy, the tutorial below describes this workflow:
+We use Gitflow as a branching strategy, the tutorial below describes this workflow:  
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ___
