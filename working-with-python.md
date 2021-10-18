@@ -7,11 +7,11 @@ These guidelines that are used within First Impression are derived from the PEP 
 1. [Indentation](#Indentation)
 2. [Maximum Line Length](#Maximum-Line-Length)
 3. [Imports](#Imports)
-4. [String Quotes](#String)
+4. [String Quotes](#String-Quotes)
 5. [Comments](#Comments)
-6. [Naming Conventions](#Naming)
-7. [Function/Method Annotations](#Function/Method)
-8. [Programming Recommendations](#Programming)
+6. [Naming Conventions](#Naming-Conventions)
+7. [Function/Method Annotations](#Function/Method-Annotations)
+8. [Programming Recommendations](#Programming-Recommendations)
 
 ## Indentation
 
