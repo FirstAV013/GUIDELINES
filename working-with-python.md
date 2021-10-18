@@ -5,7 +5,7 @@ These guidelines that are used within First Impression are derived from the PEP 
 ## Table of contents
 
 1. [Indentation](#Indentation)
-2. [Maximum Line Length](#Maximum)
+2. [Maximum Line Length](#Maximum-Line-Length)
 3. [Imports](#Imports)
 4. [String Quotes](#String)
 5. [Comments](#Comments)
