@@ -10,7 +10,7 @@ These guidelines that are used within First Impression are derived from the PEP 
 4. [String Quotes](#String-Quotes)
 5. [Comments](#Comments)
 6. [Naming Conventions](#Naming-Conventions)
-7. [Function/Method Annotations](#Function/Method-Annotations)
+7. [Function/Method Annotations](#Function-and-Method-Annotations)
 8. [Programming Recommendations](#Programming-Recommendations)
 
 ## Indentation
@@ -216,7 +216,7 @@ Python mangles these names with the class name: if class Foo has an attribute na
 
 Constants are usually defined on a module level and written in all capital letters with underscores separating words.  Examples include `MAX_OVERFLOW` and `TOTAL`. **It is important that the values of constants are never changed**
 
-## Function/Method Annotations
+## Function and Method Annotations
 
 Use annotations whenever possible. Function annotations look like this:
 
